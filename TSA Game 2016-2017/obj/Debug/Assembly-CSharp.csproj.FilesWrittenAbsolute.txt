@@ -1,0 +1,17 @@
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/obj/Debug/Assembly-CSharp.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/UnityEngine.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/UnityEditor.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Mono.Cecil.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Unity.DataContract.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/alan.goff/tsa-2016-2017-game-repo/TSA Game 2016-2017/Temp/bin/Debug/Mono.Cecil.Mdb.dll

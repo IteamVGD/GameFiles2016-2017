@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 02c52f08f7c0a1a42b51cd68754b20b4
+timeCreated: 1486474887
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - machineGunPrefab: {fileID: 1000011551473936, guid: c22a55aff4bf24b1eb05da95e7cc685c,
+      type: 2}
+  - sniperPrefab: {fileID: 1000011514326908, guid: 14622f9d154074ca0956977b456f53c8,
+      type: 2}
+  - FlameThrowerPrefab: {fileID: 1000013620563388, guid: 9df4dcab22b3f48a4bf9ddde274703b9,
+      type: 2}
+  - FreezePrefab: {fileID: 1000013382118784, guid: 827e3133b02264000b6ada0e661e6029,
+      type: 2}
+  - EngineerTowerPrefab: {fileID: 1000011973585536, guid: 6188aca4669e540b6869f31dfeb30c4b,
+      type: 2}
+  - GrenadeLauncherTowerPrefab: {fileID: 1000013902259510, guid: 4e3d43da02e0645bfb6000c3346acaeb,
+      type: 2}
+  - testObj: {fileID: 1000013960829956, guid: a4eae26ad252f114b98cc261c1813eae, type: 2}
+  - mainCamera: {instanceID: 0}
+  - GameStuffParentObjNonStatic: {instanceID: 0}
+  - OptionsMenuParentObjNonStatic: {instanceID: 0}
+  - towerBeingUpdated: {instanceID: 0}
+  - towerBeingUpdatedChild: {instanceID: 0}
+  - borderTopLeftNonStatic: {instanceID: 0}
+  - borderBottomRightNonStatic: {instanceID: 0}
+  - nonStaticUpgradeButton: {instanceID: 0}
+  - nonStaticUpgradeText: {instanceID: 0}
+  - MoneyStatTxt: {instanceID: 0}
+  - HealthStatTxt: {instanceID: 0}
+  - RoundStatTxt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

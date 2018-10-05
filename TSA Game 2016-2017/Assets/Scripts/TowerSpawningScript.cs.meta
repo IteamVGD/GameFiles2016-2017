@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 881cd3fd490d705418488c1740a07c32
+timeCreated: 1480872496
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MachineGunTower: {fileID: 1000010672300468, guid: ae18b97151a8d4cbaa69de0e490e65e9,
+      type: 2}
+  - FlamethrowerTower: {fileID: 1000013620563388, guid: 9df4dcab22b3f48a4bf9ddde274703b9,
+      type: 2}
+  - GaussTower: {fileID: 1000010715844552, guid: 14622f9d154074ca0956977b456f53c8,
+      type: 2}
+  - GrenadeLauncherTower: {fileID: 1000013902259510, guid: 4e3d43da02e0645bfb6000c3346acaeb,
+      type: 2}
+  - FreezeTower: {fileID: 1000012335689700, guid: 49725894ab77d452f9e6eaad4ead570b,
+      type: 2}
+  - EngineerHubTower: {fileID: 1000011261395122, guid: 6188aca4669e540b6869f31dfeb30c4b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

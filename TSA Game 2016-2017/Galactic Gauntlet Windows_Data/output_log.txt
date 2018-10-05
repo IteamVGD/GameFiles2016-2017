@@ -1,0 +1,541 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject BitMask: UI already registered
+ 
+(Filename:  Line: 98)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.103 seconds
+Platform assembly: D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Game Stuff\Game Making\TSA Game 2016-2017\TSA Game 2016-2017\Galactic Gauntlet Windows_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 144Hz; virtual: 6400x2330 at -1920,-1080
+<RI> Initialized touch support.
+UnloadTime: 0.684616 ms
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at WaveGen.spawnEntities () [0x00000] in <filename unknown>:0 
+  at WaveGen.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MousePosScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 31c0 -> priority: 1 

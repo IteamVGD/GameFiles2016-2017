@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61453814d15353d4caae28f62fd1ed4b
+timeCreated: 1480549389
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - targetGameObject: {instanceID: 0}
+  - machineGunBulletPrefab: {fileID: 1000013308924168, guid: 75a1effd9a132446ebe064b8a43c4434,
+      type: 2}
+  - sniperBulletPrefab: {fileID: 1000013281250374, guid: 9777fb0533f304d38b0cebb69ba8bae7,
+      type: 2}
+  - bulletType: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
