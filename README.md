@@ -6,7 +6,7 @@ The Unity Project files for the TSA Game 2016-2017 (Theme: Arcade)
 
 > **Gabriel Moncau** (Team Captain)
 
-> John (Trey) Santarelli
+> Derek Blandford
 
 > Matthew Mulhall
 
